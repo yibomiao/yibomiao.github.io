@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Yibo Miao(苗义博) is now a researcher at <a href="https://www.moonshot.ai/">Moonshot</a>, working on the foundational Large Language Models (LLMs). Yibo earned his Master’s degree at <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2025, where he was fortunate to be advised by <a href="https://thudzj.github.io/">Zhijie Deng</a>. Before that, he received his Bachelor's degree at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2022. </p>
+<p>Yibo Miao(苗义博) is now a researcher at <a href="https://www.moonshot.ai/">Moonshot</a>, working on the foundational Large Language Models (LLMs). Yibo earned his Master’s degree at <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2025, where he was fortunate to be advised by <a href="https://thudzj.github.io/">Prof. Zhijie Deng</a>. Before that, he received his Bachelor's degree at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2022. </p>
 
 <p>
 His research interests lie in <strong>large language models and coding agent</strong>.<br>
