@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yibo Miao"
-description              : "Researcher at Moonshot, interested in LLM and coding."
-repository               : "https://github.com/Yibo-Miao"
+description              : "Please feel free to contact me via email."
+repository               : "yibomiao/yibomiao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yibo Miao"
   avatar           : "images/myb.jpeg"
-  bio              : "miaoyibo0316@gmail.com"
+  bio              : "Researcher at RL Team, Moonshot"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : Yibo Miao
+  twitter          : instropg13
   vine             :
   weibo            :
   xing             :

@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+<!-- {% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
-<p>Yibo Miao(苗义博) is now a researcher at <a href="https://www.moonshot.ai/">Moonshot</a>, working on the foundational Large Language Models (LLMs). Yibo earned his Master’s degree at Shanghai Jiao Tong University in 2025, where he was fortunate to be advised by <a href="https://thudzj.github.io/">Zhijie Deng</a>. Before that, he received his Bachelor's degree at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2022. 
-
+<p>Yibo Miao(苗义博) is now a researcher at <a href="https://www.moonshot.ai/">Moonshot</a>, working on the foundational Large Language Models (LLMs). Yibo earned his Master’s degree at <a herf="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2025, where he was fortunate to be advised by <a href="https://thudzj.github.io/">Zhijie Deng</a>. Before that, he received his Bachelor's degree at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2022. </p>
 
 <p>
-His research interests lie in <strong>large language modeling and coding agent</strong>.<br>
+His research interests lie in <strong>large language models and coding agent</strong>.<br>
 </p>
 
 
@@ -27,21 +32,21 @@ His research interests lie in <strong>large language modeling and coding agent</
 - **Kimi k2: Open agentic intelligence** [\[Paper\]](https://arxiv.org/pdf/2507.20534)<br>
 **Kimi Team**
 
-- **Kimi-vl technical report** [\[Paper\]](https://arxiv.org/abs/2504.07491)<br>
+- **Kimi-vl technical report** [\[Paper\]](https://arxiv.org/pdf/2504.07491)<br>
 **Kimi Team**
 
 - **Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents** [\[Paper\]](https://arxiv.org/pdf/2509.23045?)<br>
 Zonghan Yang, Shengjie Wang, Kelin Fu, Wenyang He, Weimin Xiong, Yibo Liu, **Yibo Miao**, Bofei Gao, Yejie Wang, Yingwei Ma, Yanhao Li, Yue Liu, Zhenxing Hu, Kaitai Zhang, Shuyi Wang, Huarong Chen, Flood Sung, Yang Liu, Yang Gao, Zhilin Yang, Tianyu Liu
 
-- **Qwen2.5 technical report** [\[Paper\]](https://arxiv.org/abs/2412.15115)<br>
+- **Qwen2.5 technical report** [\[Paper\]](https://arxiv.org/pdf/2412.15115)<br>
 **Qwen Team**
 
-- **Qwen2. 5-coder technical report** [\[Paper\]](https://arxiv.org/abs/2409.12186)<br>
-**Qwen-coder Team**
+- **Qwen2. 5-coder technical report** [\[Paper\]](https://arxiv.org/pdf/2409.12186)<br>
+**Qwen-Coder Team**
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 \* indicates equal contribution.
 
 **2025**
@@ -58,21 +63,21 @@ Bofei Gao, Yejie Wang, **Yibo Miao**, Ruoyu Wu, Feifan Song, Longhui Yu, Tianyu 
 Jian Yang, Wei Zhang, **Yibo Miao**, Shanghaoran Quan, Zhenhe Wu, Qiyao Peng, Liqun Yang, Tianyu Liu, Zeyu Cui, Binyuan Hui, Junyang Lin. <br>
 ***ACL 2025***
 
-- **3D-Properties: Identifying Challenges in DPO and Charting a Path Forward** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
+- **3D-Properties: Identifying Challenges in DPO and Charting a Path Forward** [\[Paper\]](https://arxiv.org/pdf/2406.13233)<br>
 Yuzi Yan\*, **Yibo Miao\***, Jialian Li, Yipin Zhang, Jian Xie, Zhijie Deng, Dong Yan. <br>
 ***ICLR 2025***
 
-- **Omni-math: A universal olympiad level mathematic benchmark for large language models** [\[Paper\]](https://arxiv.org/abs/2410.07985)<br>
+- **Omni-math: A universal olympiad level mathematic benchmark for large language models** [\[Paper\]](https://arxiv.org/pdf/2410.07985)<br>
 Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, **Yibo Miao**, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, Runxin Xu, Zhengyang Tang, Benyou Wang, Daoguang Zan, Shanghaoran Quan, Ge Zhang, Lei Sha, Yichang Zhang, Xuancheng Ren, Tianyu Liu, Baobao Chang. <br>
 ***ICLR 2025***
 
 **2024**
 
-- **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
+- **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/pdf/2406.13233)<br>
 Zihao Zeng\*, **Yibo Miao\***, Hongcheng Gao, Hao Zhang, Zhijie Deng. <br>
 *Findings of **EMNLP 2024***.<br>
 
-- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
+- **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/pdf/2305.16617)<br>
 **Yibo Miao\***, Hongcheng Gao\*, Hao Zhang, Zhijie Deng. <br>
 *Findings of **ACL 2024***.<br>
 
@@ -80,7 +85,7 @@ Zihao Zeng\*, **Yibo Miao\***, Hongcheng Gao, Hao Zhang, Zhijie Deng. <br>
 Tian Xia, Zhiwei He, Tong Ren, **Yibo Miao**, Zhuosheng Zhang, Yang Yang, Rui Wang. <br>
 *Findings of **ACL 2024***.<br>
 
-- **Bayesian Exploration of Pre-trained Models for Low-shot Image Classification** [\[Paper\]](https://arxiv.org/abs/2404.00312)<br>
+- **Bayesian Exploration of Pre-trained Models for Low-shot Image Classification** [\[Paper\]](https://arxiv.org/pdf/2404.00312)<br>
 **Yibo Miao**, Yu Lei, Feng Zhou, Zhijie Deng. <br>
 ***CVPR 2024***
 
@@ -115,21 +120,12 @@ Tian Xia, Zhiwei He, Tong Ren, **Yibo Miao**, Zhuosheng Zhang, Yang Yang, Rui Wa
 
 # 📖 Education
 
-- *2018.09 - 2022.06*, B.E. Huazhong University of Science and Technology.
 - *2022.09 - 2025.03*, M.E. at Shanghai Jiao Tong University.
+- *2018.09 - 2022.06*, B.E. Huazhong University of Science and Technology.
 
-# 📖 Experience
+# 📖 Experiences
 
 - *2025.1 - present*, Researcher at RL Team, Moonshot.
 - *2024.8 - 2025.1*, Intern at Qwen, Alibaba.
 - *2024.2 - 2024.7*, Intern at RL Team, Baichuan.
 - *2023.7 - 2023.12*, Intern at SenseTime Research.
-
-
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
