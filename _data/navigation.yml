@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+    # url: "/#-news"
 
   - title: "Preprints"
     url: "/#-preprints"
@@ -12,17 +12,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
+  # - title: "Projects"
+    # url: "/#-projects"
 
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  # - title: "Academic Services"
+    # url: "/#-academic-services"
     
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
     
-  # - title: "Educations"
-    # url: "/#-educations"
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Experiences"
     url: "/#-experiences"
