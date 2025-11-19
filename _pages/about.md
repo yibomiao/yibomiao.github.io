@@ -121,7 +121,7 @@ Tian Xia, Zhiwei He, Tong Ren, **Yibo Miao**, Zhuosheng Zhang, Yang Yang, Rui Wa
 # 📖 Education
 
 - *2022.09 - 2025.03*, M.E. at Shanghai Jiao Tong University.
-- *2018.09 - 2022.06*, B.E. Huazhong University of Science and Technology.
+- *2018.09 - 2022.06*, B.E. at Huazhong University of Science and Technology.
 
 # 📖 Experiences
 
