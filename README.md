@@ -1,1 +1,1 @@
-My personal page is [Yibo-Miao](https://yibomiao.github.io/).
+My personal page is [here](https://yibomiao.github.io/).
