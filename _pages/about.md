@@ -17,16 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>Yibo Miao(苗义博) is a Researcher at <a href="https://www.moonshot.ai/">Moonshot</a>. He received his Bachelor's degree of Electronic and Information Engineering at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in June 2022. 
-<!-- and <a href="https://vipl.ict.ac.cn/">VIPL</a>(<a href="http://www.ict.ac.cn/">ICT</a>) -->
-<!-- Hongcheng Gao(高鸿成) is nobody just hoping to make some meaningful works. His research interests lie in <strong>trustworthy NLP, large language modeling and multi-modal learning. -->
+<p>Yibo Miao(苗义博) is now a researcher at <a href="https://www.moonshot.ai/">Moonshot</a>, working on the foundational Large Language Models (LLMs). Yibo earned his Master’s degree at Shanghai Jiao Tong University in 2025, where he was fortunate to be advised by <a href="https://thudzj.github.io/">Zhijie Deng. Before that, he received his Bachelor's degree at <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> in 2022. 
 
-<!-- Curently, he is also a core member of <a href="https://huggingface.co/WizardLM">WizardLM Team</a> of <a href="https://www.msra.cn/">Microsoft Research</a>. -->
 
-<!-- He received Bachelor's degree of Computer Science and Techology at <a href="https://cqu.edu.cn/">Chongqing University</a> in June 2023. In his undergraduate years, He was a research intern at <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>,  advised by <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>.   -->
-
-<!-- He also cooperate with <a href="https://thudzj.github.io">Prof.Zhijie Deng</a>(<a href="https://www.sjtu.edu.cn">SJTU</a>), <a href="https://ml.cs.tsinghua.edu.cn/~yinpeng/">Post-doc Yinpeng Dong</a>(<a href="https://www.tsinghua.edu.cn/en/">THU</a>) and <a href="https://cseweb.ucsd.edu/~haozhang/">Prof.Hao Zhang</a>(<a href="https://ucsd.edu/">UCSD</a>). -->
-<!-- <br> -->
 <p>
 His research interests lie in <strong>large language modeling and coding agent</strong>.<br>
 </p>
@@ -46,129 +39,26 @@ His research interests lie in <strong>large language modeling and coding agent</
 # 📝 Preprints 
 \* indicates equal contribution.
 
-<!-- - **GuardReasoner: Towards Reasoning-based LLM Safeguards** [\[Paper\]](https://arxiv.org/abs/2501.18492)<br>
-Yue Liu, **Hongcheng Gao**, Shengfang Zhai, Jun Xia, Tianyi Wu, Zhiwei Xue, Yulin Chen, Kenji Kawaguchi, Jiaheng Zhang, Bryan Hooi
-
-- **StruEdit: Structured Outputs Enable the Fast and Accurate Knowledge Editing for Large Language Models** [\[Paper\]](https://arxiv.org/abs/2409.10132)<br>
-Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Junfeng Fang, Xueqi Cheng
-
-- **Evaluating the Robustness of Text-to-image Diffusion Models against Real-world Attacks** [\[Paper\]](https://arxiv.org/abs/2306.13103)<br> 
-**Hongcheng Gao**, Hao Zhang, Yinpeng Dong, Zhijie Deng. <br>
-
-- **Kimi k1. 5: Scaling Reinforcement Learning with LLMs** [\[Paper\]](https://arxiv.org/abs/2501.12599)<br>
-**Kimi Team** -->
-
 - **Kimi-vl technical report** [\[Paper\]](https://arxiv.org/abs/2504.07491)<br>
 **Kimi Team**
   
-<!-- *Under Review by **NeurIPS 2023*** -->
 
-<!-- *Under Review by **NeurIPS 2023*** -->
-
-<!-- *Under Review by **NeurIPS 2023*** -->
-
-<!-- - **DEPP: A Novel Crystal Descriptor and Application in Ionic Batteries Voltage Prediction** <br>
-Dongchen Jin\*, **Hongcheng Gao\***, Haoran Luo\*, Linlin He, Chao Yang, Yujie Zheng. <br>
-*Under Review by **npj Computational Materials** (Sister journal of **<font color="dd0000">Nature</font>**)* -->
 
 
 # 📝 Publications 
 \* indicates equal contribution.
 
-<!-- <table><tr><td>
-    <img src="../images/calibration.png" style="border:1.2px solid #464646;padding:5px;border-radius:10px;box-shadow:1.2px 1.2px #bbbbbb" alt="" width="450px" />&nbsp;</td>
-    <td align="left">
-    <p>
-      <b>A Close Look into the Calibration of Pre-trained Language Models</b>. <a href="https://arxiv.org/abs/2211.00151">[Paper]</a><br>
-      Yangyi Chen*, <b>Lifan Yuan*</b>, Ganqu Cui, Zhiyuan Liu, Heng Ji. <br>
-      <em><b>What</b></em>: An emperical study on the calibration of PLMs and existing calibration methods. <br>
-      <em><b>Results</b></em>: Language models do not learn to be calibrated in training, and existing methods fail to tackle the miscalibration problems.<br>
-      <em><b>Insights</b></em>: Learnable calibration methods, which directly collect data to train PLMs on the calibration task, demonstrate a great potential in improving PLMs' calibration.<br>
-    </p>
-</td></tr></table> -->
 
-<!-- **2025**
-
-- **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** [\[Paper\]](https://arxiv.org/abs/2410.12777)<br>
-**Hongcheng Gao\***, Tianyu Pang\*, Chao Du, Taihang Hu, Zhijie Deng, Min Lin
-<br>
-***ICCV 2025*** -->
-<!--   
-- **Spider 2.0: Evaluating language models on real-world enterprise text-to-sql workflows** [\[Paper\]](https://arxiv.org/abs/2411.07763)<br>
-Fangyu Lei\*, Jixuan Chen\*, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, **Hongcheng Gao**, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, Tao Yu. <br>
-***ICLR 2025***
-
-- **Is factuality decoding a free lunch for llms? evaluation on knowledge editing benchmark** [\[Paper\]](https://arxiv.org/abs/2404.00216)<br>
-Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Junfeng Fang, **Hongcheng Gao**, Shiyu Ni, Xueqi Cheng. <br>
-***ICLR 2025*** -->
-
-
-
-**2024**
-<!-- - **Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
-Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, **Hongcheng Gao** et al. <br>
-***NeurIPS 2024(Spotlight）***
-
-- **Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning**[\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0949cbcec31c09431610553a284f94a-Abstract-Conference.html)<br>
-Jiadong Pan\*, **Hongcheng Gao\***, Zongyu Wu, Tanghang Hu, Li Su, Qingming Huang, Liang Li. <br>
-***NeurIPS 2024(Spotlight）***
-
-- **Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**[\[Paper\]](https://arxiv.org/abs/2411.07132)<br>
-Taihang Hu, Linxuan Li, Joost van de Weijer, **Hongcheng Gao**, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, Yaxing Wang. <br>
-***NeurIPS 2024*** -->
 
 - **AdaMoE: Token-Adaptive Routing with Null Experts for Mixture-of-Experts Language Models** [\[Paper\]](https://arxiv.org/abs/2406.13233)<br>
-Zihao Zeng\*, Yibo Miao\*, **Hongcheng Gao**, Hao Zhang, Zhijie Deng. <br>
+Zihao Zeng\*, **Yibo Miao\***, Hongcheng Gao, Hao Zhang, Zhijie Deng. <br>
 *Findings of **EMNLP 2024***.<br>
 
-<!-- - **Adaptive Token Biaser: Knowledge Editing via Biasing Key Entities** [\[Paper\]](https://arxiv.org/abs/2406.12468)<br> 
-Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, **Hongcheng Gao**, Yilong Xu, Xueqi Cheng. <br>
-*Findings of **EMNLP 2024***.<br> -->
-
 - **Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model** [\[Paper\]](https://arxiv.org/abs/2305.16617)<br>
-Zhijie Deng\*, **Hongcheng Gao\***, Yibo Miao, Hao Zhang. <br>
+**Yibo Miao\***, Hongcheng Gao\*, Hao Zhang, Zhijie Deng. <br>
 *Findings of **ACL 2024***.<br>
-<!-- 
-- **Universal Prompt Optimizer for Safe Text-to-Image Generation** [\[Paper\]](https://arxiv.org/abs/2402.10882)<br> 
-Zongyu Wu\*, **Hongcheng Gao\***, Yueze Wang, Xiang Zhang, Suhang Wang. <br>
-***NAACL 2024***
-
-- **Generative Pretraining in Multimodality** [\[Paper\]](https://arxiv.org/abs/2307.05222)<br> 
-Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, **Hongcheng Gao**, Jingjing Liu, Tiejun Huang, Xinlong Wang<br>
-***ICLR 2024*** -->
-
-<!-- **2023**
-
-- **Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations** [\[Paper\]](http://arxiv.org/abs/2306.04618)<br>
-Lifan Yuan, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Fangyuan Zou, Xingyi Cheng, Heng Ji, Zhiyuan Liu, Maosong Sun. <br>
-***NeurIPS 2023 (D&B Track)***
-
-- **From Adversarial Arms Race to Model-centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework** [\[Paper\]](https://arxiv.org/abs/2305.18503)<br>
-Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui\*, Lifan Yuan, Dehan Kong, Hanlu Wu, Ning Shi, Bo Yuan, Longtao Huang, Hui Xue, Zhiyuan Liu, Maosong Sun, Heng Ji. <br>
-*Findings of **ACL 2023***.<br>
-
-**2022**
-
-- **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP** [\[Paper\]](https://arxiv.org/abs/2210.10683)<br>
-Yangyi Chen\*, **Hongcheng Gao\***, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun. <br>
-***EMNLP 2022***.<br>
-
-- **Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks** [\[Paper\]](https://arxiv.org/abs/2110.08247)<br>
-Yangyi Chen\*, Fanchao Qi\*, **Hongcheng Gao**, Zhiyuan Liu, Maosong Sun. <br>
-***EMNLP 2022***.<br>
 
 
-- **Exploring the Universal Vulnerability of Prompt-based Learning Paradigm** [\[Paper\]](https://aclanthology.org/2022.findings-naacl.137)<br>
-Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
-*Findings of **NAACL 2022***.<br> -->
-
-
-<!-- # 💻 Projects
-
-- [RobTest](https://github.com/thunlp/RobTest): an open-source toolkit for textual model robustness evaluation .<br>
-- [Spider2-V](https://github.com/xlang-ai/Spider2-V): Spider2-V is a multimodal agent benchmark spanning across the entire data science and engineering workflow 
-- [OpenAttack](https://github.com/thunlp/OpenAttack): an open-source Python-based textual adversarial attack toolkit.<br>
-- [Emu](https://github.com/baaivision/Emu): an open multimodal generalist for both image-to-text and text-to-image tasks. <br> -->
 
 # 📄 Academic Services
 <!-- - Area Chiar/Senior PC Member:
@@ -197,10 +87,10 @@ Lei Xu, Yangyi Chen, Ganqu Cui, **Hongcheng Gao**, Zhiyuan Liu.<br>
 - Merit Student, HUST, 2020
 - First Prize in Provinces, Chinese Chemistry Olympiad, 2018 -->
 
-# 📖 Experiences
+# 📖 Education
 
-- *2018.09 - 2022.06*, Undergraduate Student at Huazhong University of Science and Technology.
-- *2022.09 - 2025.03*, Master at Shanghai Jiao Tong University. Mentor: <a href="https://thudzj.github.io/">Prof. Zhijie Deng</a>
+- *2018.09 - 2022.06*, B.E. Huazhong University of Science and Technology.
+- *2022.09 - 2025.03*, M.E. at Shanghai Jiao Tong University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
